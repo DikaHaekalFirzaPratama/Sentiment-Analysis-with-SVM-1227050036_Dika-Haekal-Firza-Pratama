@@ -4,9 +4,9 @@
 
 ## Deskripsi
 
-Dokumen ini merupakan implementasi sederhana dari analisis sentimen menggunakan algoritma Support Vector Machine (SVM). Analisis sentimen adalah proses untuk mengidentifikasi dan mengkategorikan opini atau pernyataan dalam bentuk teks, khususnya untuk menentukan apakah suatu kalimat bersifat positif atau negatif. Dalam implementasi ini, digunakan beberapa kalimat berbahasa Inggris sebagai data latih yang telah diberi label sentimen.
+Implementasi ini menunjukkan cara melakukan analisis sentimen sederhana menggunakan algoritma Support Vector Machine (SVM). Analisis sentimen merupakan proses untuk mengidentifikasi dan mengkategorikan opini atau pernyataan dalam bentuk teks, terutama untuk menentukan apakah suatu kalimat bersifat positif atau negatif. Dalam kasus ini, digunakan beberapa kalimat berbahasa Inggris sebagai data latih yang telah dilabeli berdasarkan sentimen.
 
-Model dibuat dengan memanfaatkan teknik TF-IDF (Term Frequency-Inverse Document Frequency) untuk mengubah teks menjadi representasi numerik, kemudian diklasifikasikan menggunakan algoritma SVM dengan kernel linear. Implementasi ini bertujuan untuk memberikan gambaran dasar tentang cara kerja machine learning dalam bidang pemrosesan bahasa alami (Natural Language Processing), khususnya untuk klasifikasi sentimen.
+Model dibangun dengan menggunakan teknik TF-IDF (Term Frequency-Inverse Document Frequency) untuk mengubah teks menjadi representasi numerik, kemudian diklasifikasikan menggunakan algoritma SVM dengan kernel linear. Tujuannya adalah memberikan gambaran dasar tentang penerapan machine learning dalam bidang pemrosesan bahasa alami (Natural Language Processing), khususnya dalam klasifikasi sentimen teks.
 
 ## Teknologi yang Digunakan
 
